@@ -1,3 +1,4 @@
 flask
 mindsdb_sdk
 python-dotenv
+gunicorn
